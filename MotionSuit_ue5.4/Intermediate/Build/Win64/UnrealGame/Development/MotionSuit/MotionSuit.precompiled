@@ -1,0 +1,13 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Development\\MotionSuit\\Module.MotionSuit.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\MotionSuit\\DataManager.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\MotionSuit\\ModelController.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\MotionSuit\\MotionConnect.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\MotionSuit\\MotionData.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\MotionSuit\\MotionLib.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\MotionSuit\\MotionPose.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\MotionSuit\\MotionSuit.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\MotionSuit\\ThreadDispatcher.cpp.obj"
+	]
+}

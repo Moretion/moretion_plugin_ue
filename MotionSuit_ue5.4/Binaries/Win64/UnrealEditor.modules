@@ -1,0 +1,8 @@
+{
+	"BuildId": "33043543",
+	"Modules": 
+	{
+		"MotionSuit": "UnrealEditor-MotionSuit.dll",
+		"MotionSuitEditor": "UnrealEditor-MotionSuitEditor.dll"
+	}
+}

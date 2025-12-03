@@ -1,0 +1,38 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.2",
+	"FriendlyName": "MotionSuit",
+	"Description": "",
+	"Category": "Motion Capture",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.4.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "MotionSuit",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		},
+		{
+			"Name": "MotionSuitEditor",
+			"Type": "UncookedOnly",
+			"LoadingPhase": "PreDefault",
+			"PlatformAllowList": [
+				"Win64"
+			],
+			"AdditionalDependencies": [
+				"Engine",
+				"CoreUObject"
+			]
+		}
+	]
+}
